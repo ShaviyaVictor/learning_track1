@@ -1,0 +1,13 @@
+C:\Users\vs610642\Downloads\Shaviya\code\learning_track1\build
+
+###
+.gradle
+
+### IntelliJ IDEA ###
+.idea
+settings.gradle
+
+### NetBeans ###
+build/
+gradle
+gradlew
